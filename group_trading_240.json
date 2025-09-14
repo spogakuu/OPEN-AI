@@ -1,0 +1,4604 @@
+{
+  "chatId": "19:trading-room@unq",
+  "chatType": "group",
+  "topic": "Live Trading Desk – Multi-thread Session (240 messages)",
+  "members": [
+    {
+      "id": "tr1",
+      "displayName": "Riley (Scalper)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "tr2",
+      "displayName": "Sam (Swing)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "tr3",
+      "displayName": "Alex (Quant)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "tr4",
+      "displayName": "Jordan (Options)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "tr5",
+      "displayName": "Taylor (Macro)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "tr6",
+      "displayName": "Morgan (TA)",
+      "userIdentityType": "aadUser"
+    },
+    {
+      "id": "svc-bot",
+      "displayName": "Trade Bot",
+      "userIdentityType": "aadUser"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m-0001",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:30:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:30:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For GOOGL, do you prefer breakout over 1090.79 or pullback to RSI(14)?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0001"
+    },
+    {
+      "id": "m-0002",
+      "replyToId": "m-0001",
+      "createdDateTime": "2025-09-12T13:30:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:30:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above RSI(14) with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0002"
+    },
+    {
+      "id": "m-0003",
+      "replyToId": "m-0001",
+      "createdDateTime": "2025-09-12T13:30:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:30:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to RSI(14); risk $21.82 for $65.45 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0003"
+    },
+    {
+      "id": "m-0004",
+      "replyToId": "m-0001",
+      "createdDateTime": "2025-09-12T13:31:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:31:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to RSI(14); risk $21.82 for $65.45 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0004"
+    },
+    {
+      "id": "m-0005",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:31:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:31:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $1165.56 on AMD."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0005"
+    },
+    {
+      "id": "m-0006",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:31:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:31:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is META a buy if it retests 236.4?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0006"
+    },
+    {
+      "id": "m-0007",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:32:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:32:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on SHOP $150C exp Fri."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0007"
+    },
+    {
+      "id": "m-0008",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:32:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:32:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Halt risk on NFLX; staying flat."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0008"
+    },
+    {
+      "id": "m-0009",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:32:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:32:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is QQQ a buy if it retests 15.77?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0009"
+    },
+    {
+      "id": "m-0010",
+      "replyToId": "m-0009",
+      "createdDateTime": "2025-09-12T13:33:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:33:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Fib 61.8% with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0010"
+    },
+    {
+      "id": "m-0011",
+      "replyToId": "m-0009",
+      "createdDateTime": "2025-09-12T13:33:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:33:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Fib 61.8% with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0011"
+    },
+    {
+      "id": "m-0012",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:33:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:33:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on CRM?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0012"
+    },
+    {
+      "id": "m-0013",
+      "replyToId": "m-0012",
+      "createdDateTime": "2025-09-12T13:34:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:34:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0013"
+    },
+    {
+      "id": "m-0014",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:34:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:34:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on QQQ?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0014"
+    },
+    {
+      "id": "m-0015",
+      "replyToId": "m-0014",
+      "createdDateTime": "2025-09-12T13:34:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:34:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0015"
+    },
+    {
+      "id": "m-0016",
+      "replyToId": "m-0014",
+      "createdDateTime": "2025-09-12T13:35:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:35:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $1076.53; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0016"
+    },
+    {
+      "id": "m-0017",
+      "replyToId": "m-0014",
+      "createdDateTime": "2025-09-12T13:35:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:35:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0017"
+    },
+    {
+      "id": "m-0018",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:35:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:35:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 25 @ $86.61 on NFLX — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0018"
+    },
+    {
+      "id": "m-0019",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:36:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:36:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Scaled out 1/2 at $931.18 on COIN."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0019"
+    },
+    {
+      "id": "m-0020",
+      "replyToId": "m-0019",
+      "createdDateTime": "2025-09-12T13:36:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:36:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0020"
+    },
+    {
+      "id": "m-0021",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:36:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:36:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on CRM reclaiming Bollinger Mid? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0021"
+    },
+    {
+      "id": "m-0022",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:37:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:37:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: SPY IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0022"
+    },
+    {
+      "id": "m-0023",
+      "replyToId": "m-0022",
+      "createdDateTime": "2025-09-12T13:37:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:37:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0023"
+    },
+    {
+      "id": "m-0024",
+      "replyToId": "m-0022",
+      "createdDateTime": "2025-09-12T13:37:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:37:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to Fib 61.8%; risk $1.77 for $5.31 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0024"
+    },
+    {
+      "id": "m-0025",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:38:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:38:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on NFLX?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0025"
+    },
+    {
+      "id": "m-0026",
+      "replyToId": "m-0025",
+      "createdDateTime": "2025-09-12T13:38:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:38:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0026"
+    },
+    {
+      "id": "m-0027",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:38:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:38:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on MSFT reclaiming EMA50? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0027"
+    },
+    {
+      "id": "m-0028",
+      "replyToId": "m-0027",
+      "createdDateTime": "2025-09-12T13:39:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:39:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0028"
+    },
+    {
+      "id": "m-0029",
+      "replyToId": "m-0027",
+      "createdDateTime": "2025-09-12T13:39:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:39:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$342.47; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0029"
+    },
+    {
+      "id": "m-0030",
+      "replyToId": "m-0027",
+      "createdDateTime": "2025-09-12T13:39:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:39:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0030"
+    },
+    {
+      "id": "m-0031",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:40:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:40:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on AAPL?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0031"
+    },
+    {
+      "id": "m-0032",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:40:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:40:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on META?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0032"
+    },
+    {
+      "id": "m-0033",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:40:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:40:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on QQQ reclaiming EMA20? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0033"
+    },
+    {
+      "id": "m-0034",
+      "replyToId": "m-0033",
+      "createdDateTime": "2025-09-12T13:41:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:41:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0034"
+    },
+    {
+      "id": "m-0035",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:41:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:41:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on NVDA?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0035"
+    },
+    {
+      "id": "m-0036",
+      "replyToId": "m-0035",
+      "createdDateTime": "2025-09-12T13:41:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:41:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0036"
+    },
+    {
+      "id": "m-0037",
+      "replyToId": "m-0035",
+      "createdDateTime": "2025-09-12T13:42:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:42:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$152.74; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0037"
+    },
+    {
+      "id": "m-0038",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:42:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:42:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: NFLX guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0038"
+    },
+    {
+      "id": "m-0039",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:42:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:42:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "PT $1059.48 on AMZN if breaks 250.64."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0039"
+    },
+    {
+      "id": "m-0040",
+      "replyToId": "m-0039",
+      "createdDateTime": "2025-09-12T13:43:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:43:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0040"
+    },
+    {
+      "id": "m-0041",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:43:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:43:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For CRM, do you prefer breakout over 530.71 or pullback to 200DMA?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0041"
+    },
+    {
+      "id": "m-0042",
+      "replyToId": "m-0041",
+      "createdDateTime": "2025-09-12T13:43:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:43:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0042"
+    },
+    {
+      "id": "m-0043",
+      "replyToId": "m-0041",
+      "createdDateTime": "2025-09-12T13:44:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:44:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above 200DMA with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0043"
+    },
+    {
+      "id": "m-0044",
+      "replyToId": "m-0041",
+      "createdDateTime": "2025-09-12T13:44:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:44:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$530.71; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0044"
+    },
+    {
+      "id": "m-0045",
+      "replyToId": "m-0041",
+      "createdDateTime": "2025-09-12T13:44:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:44:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0045"
+    },
+    {
+      "id": "m-0046",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:45:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:45:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on NFLX?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0046"
+    },
+    {
+      "id": "m-0047",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:45:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:45:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 25 @ $833.0 on SHOP — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0047"
+    },
+    {
+      "id": "m-0048",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:45:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:45:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Halt risk on TSLA; staying flat."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0048"
+    },
+    {
+      "id": "m-0049",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:46:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:46:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is TSLA a buy if it retests 15.62?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0049"
+    },
+    {
+      "id": "m-0050",
+      "replyToId": "m-0049",
+      "createdDateTime": "2025-09-12T13:46:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:46:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above MACD with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0050"
+    },
+    {
+      "id": "m-0051",
+      "replyToId": "m-0049",
+      "createdDateTime": "2025-09-12T13:46:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:46:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0051"
+    },
+    {
+      "id": "m-0052",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:47:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:47:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is NVDA a buy if it retests 940.45?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0052"
+    },
+    {
+      "id": "m-0053",
+      "replyToId": "m-0052",
+      "createdDateTime": "2025-09-12T13:47:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:47:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to Anchored VWAP; risk $18.81 for $56.43 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0053"
+    },
+    {
+      "id": "m-0054",
+      "replyToId": "m-0052",
+      "createdDateTime": "2025-09-12T13:47:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:47:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to Anchored VWAP; risk $18.81 for $56.43 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0054"
+    },
+    {
+      "id": "m-0055",
+      "replyToId": "m-0052",
+      "createdDateTime": "2025-09-12T13:48:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:48:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0055"
+    },
+    {
+      "id": "m-0056",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:48:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:48:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $714.46 on META."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0056"
+    },
+    {
+      "id": "m-0057",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:48:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:48:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Earnings for GOOGL after close; hedging with puts."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0057"
+    },
+    {
+      "id": "m-0058",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:49:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:49:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on GOOGL?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0058"
+    },
+    {
+      "id": "m-0059",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:49:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:49:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on TSLA reclaiming MACD? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0059"
+    },
+    {
+      "id": "m-0060",
+      "replyToId": "m-0059",
+      "createdDateTime": "2025-09-12T13:49:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:49:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $824.0; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0060"
+    },
+    {
+      "id": "m-0061",
+      "replyToId": "m-0059",
+      "createdDateTime": "2025-09-12T13:50:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:50:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to MACD; risk $16.48 for $49.44 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0061"
+    },
+    {
+      "id": "m-0062",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:50:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:50:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on COIN $500C exp EOM."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0062"
+    },
+    {
+      "id": "m-0063",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:50:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:50:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 50 @ $371.45 on SPY — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0063"
+    },
+    {
+      "id": "m-0064",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:51:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:51:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is GOOGL a buy if it retests 598.64?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0064"
+    },
+    {
+      "id": "m-0065",
+      "replyToId": "m-0064",
+      "createdDateTime": "2025-09-12T13:51:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:51:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0065"
+    },
+    {
+      "id": "m-0066",
+      "replyToId": "m-0064",
+      "createdDateTime": "2025-09-12T13:51:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:51:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $598.64; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0066"
+    },
+    {
+      "id": "m-0067",
+      "replyToId": "m-0064",
+      "createdDateTime": "2025-09-12T13:52:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:52:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to VWAP; risk $11.97 for $35.92 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0067"
+    },
+    {
+      "id": "m-0068",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:52:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:52:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "PT $909.24 on META if breaks 455.16."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0068"
+    },
+    {
+      "id": "m-0069",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:52:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:52:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: NFLX IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0069"
+    },
+    {
+      "id": "m-0070",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:53:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:53:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 200 @ $808.6 on COIN — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0070"
+    },
+    {
+      "id": "m-0071",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:53:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:53:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is AAPL a buy if it retests 59.82?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0071"
+    },
+    {
+      "id": "m-0072",
+      "replyToId": "m-0071",
+      "createdDateTime": "2025-09-12T13:53:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:53:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0072"
+    },
+    {
+      "id": "m-0073",
+      "replyToId": "m-0071",
+      "createdDateTime": "2025-09-12T13:54:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:54:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0073"
+    },
+    {
+      "id": "m-0074",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:54:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:54:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Scaled out 1/2 at $509.67 on COIN."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0074"
+    },
+    {
+      "id": "m-0075",
+      "replyToId": "m-0074",
+      "createdDateTime": "2025-09-12T13:54:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:54:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0075"
+    },
+    {
+      "id": "m-0076",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:55:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:55:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is NFLX a buy if it retests 347.18?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0076"
+    },
+    {
+      "id": "m-0077",
+      "replyToId": "m-0076",
+      "createdDateTime": "2025-09-12T13:55:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:55:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$347.18; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0077"
+    },
+    {
+      "id": "m-0078",
+      "replyToId": "m-0076",
+      "createdDateTime": "2025-09-12T13:55:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:55:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $347.18; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0078"
+    },
+    {
+      "id": "m-0079",
+      "replyToId": "m-0076",
+      "createdDateTime": "2025-09-12T13:56:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:56:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0079"
+    },
+    {
+      "id": "m-0080",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:56:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:56:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 500 @ $135.95 on AAPL — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0080"
+    },
+    {
+      "id": "m-0081",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:56:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:56:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on AMD?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0081"
+    },
+    {
+      "id": "m-0082",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:57:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:57:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on CRM?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0082"
+    },
+    {
+      "id": "m-0083",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:57:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:57:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on AAPL?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0083"
+    },
+    {
+      "id": "m-0084",
+      "replyToId": "m-0083",
+      "createdDateTime": "2025-09-12T13:57:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:57:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above 200DMA with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0084"
+    },
+    {
+      "id": "m-0085",
+      "replyToId": "m-0083",
+      "createdDateTime": "2025-09-12T13:58:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:58:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to 200DMA; risk $6.64 for $19.93 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0085"
+    },
+    {
+      "id": "m-0086",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:58:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:58:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: META guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0086"
+    },
+    {
+      "id": "m-0087",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:58:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:58:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Halt risk on CRM; staying flat."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0087"
+    },
+    {
+      "id": "m-0088",
+      "replyToId": "m-0087",
+      "createdDateTime": "2025-09-12T13:59:00Z",
+      "lastModifiedDateTime": "2025-09-12T13:59:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0088"
+    },
+    {
+      "id": "m-0089",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T13:59:20Z",
+      "lastModifiedDateTime": "2025-09-12T13:59:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is META a buy if it retests 701.6?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0089"
+    },
+    {
+      "id": "m-0090",
+      "replyToId": "m-0089",
+      "createdDateTime": "2025-09-12T13:59:40Z",
+      "lastModifiedDateTime": "2025-09-12T13:59:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$701.6; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0090"
+    },
+    {
+      "id": "m-0091",
+      "replyToId": "m-0089",
+      "createdDateTime": "2025-09-12T14:00:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:00:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to Anchored VWAP; risk $14.03 for $42.1 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0091"
+    },
+    {
+      "id": "m-0092",
+      "replyToId": "m-0089",
+      "createdDateTime": "2025-09-12T14:00:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:00:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Anchored VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0092"
+    },
+    {
+      "id": "m-0093",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:00:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:00:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Earnings for MSFT after close; hedging with puts."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0093"
+    },
+    {
+      "id": "m-0094",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:01:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:01:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watching NVDA at premarket high $514.16; need volume."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0094"
+    },
+    {
+      "id": "m-0095",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:01:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:01:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on NVDA reclaiming EMA20? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0095"
+    },
+    {
+      "id": "m-0096",
+      "replyToId": "m-0095",
+      "createdDateTime": "2025-09-12T14:01:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:01:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0096"
+    },
+    {
+      "id": "m-0097",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:02:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:02:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For CRM, do you prefer breakout over 301.31 or pullback to Fib 61.8%?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0097"
+    },
+    {
+      "id": "m-0098",
+      "replyToId": "m-0097",
+      "createdDateTime": "2025-09-12T14:02:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:02:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$301.31; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0098"
+    },
+    {
+      "id": "m-0099",
+      "replyToId": "m-0097",
+      "createdDateTime": "2025-09-12T14:02:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:02:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $301.31; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0099"
+    },
+    {
+      "id": "m-0100",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:03:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:03:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Anyone have borrow on QQQ?"
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0100"
+    },
+    {
+      "id": "m-0101",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:03:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:03:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watching SHOP at premarket high $858.9; need volume."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0101"
+    },
+    {
+      "id": "m-0102",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:03:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:03:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on SHOP?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0102"
+    },
+    {
+      "id": "m-0103",
+      "replyToId": "m-0102",
+      "createdDateTime": "2025-09-12T14:04:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:04:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to VWAP; risk $6.14 for $18.42 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0103"
+    },
+    {
+      "id": "m-0104",
+      "replyToId": "m-0102",
+      "createdDateTime": "2025-09-12T14:04:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:04:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0104"
+    },
+    {
+      "id": "m-0105",
+      "replyToId": "m-0102",
+      "createdDateTime": "2025-09-12T14:04:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:04:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0105"
+    },
+    {
+      "id": "m-0106",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:05:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:05:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on SHOP $350C exp EOM."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0106"
+    },
+    {
+      "id": "m-0107",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:05:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:05:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 500 @ $430.13 on QQQ — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0107"
+    },
+    {
+      "id": "m-0108",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:05:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:05:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on COIN reclaiming MACD? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0108"
+    },
+    {
+      "id": "m-0109",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:06:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:06:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: SPY guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0109"
+    },
+    {
+      "id": "m-0110",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:06:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:06:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on MSFT?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0110"
+    },
+    {
+      "id": "m-0111",
+      "replyToId": "m-0110",
+      "createdDateTime": "2025-09-12T14:06:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:06:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $213.83; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0111"
+    },
+    {
+      "id": "m-0112",
+      "replyToId": "m-0110",
+      "createdDateTime": "2025-09-12T14:07:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:07:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $213.83; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0112"
+    },
+    {
+      "id": "m-0113",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:07:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:07:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For AMD, do you prefer breakout over 844.02 or pullback to ATR?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0113"
+    },
+    {
+      "id": "m-0114",
+      "replyToId": "m-0113",
+      "createdDateTime": "2025-09-12T14:07:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:07:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above ATR with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0114"
+    },
+    {
+      "id": "m-0115",
+      "replyToId": "m-0113",
+      "createdDateTime": "2025-09-12T14:08:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:08:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $844.02; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0115"
+    },
+    {
+      "id": "m-0116",
+      "replyToId": "m-0113",
+      "createdDateTime": "2025-09-12T14:08:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:08:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$844.02; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0116"
+    },
+    {
+      "id": "m-0117",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:08:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:08:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 25 @ $952.18 on TSLA — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0117"
+    },
+    {
+      "id": "m-0118",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:09:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:09:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: NVDA IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0118"
+    },
+    {
+      "id": "m-0119",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:09:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:09:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "PT $130.31 on AMZN if breaks 854.87."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0119"
+    },
+    {
+      "id": "m-0120",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:09:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:09:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watching AAPL at premarket high $502.32; need volume."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0120"
+    },
+    {
+      "id": "m-0121",
+      "replyToId": "m-0120",
+      "createdDateTime": "2025-09-12T14:10:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:10:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0121"
+    },
+    {
+      "id": "m-0122",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:10:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:10:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on QQQ?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0122"
+    },
+    {
+      "id": "m-0123",
+      "replyToId": "m-0122",
+      "createdDateTime": "2025-09-12T14:10:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:10:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Bollinger Mid with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0123"
+    },
+    {
+      "id": "m-0124",
+      "replyToId": "m-0122",
+      "createdDateTime": "2025-09-12T14:11:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:11:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $625.38; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0124"
+    },
+    {
+      "id": "m-0125",
+      "replyToId": "m-0122",
+      "createdDateTime": "2025-09-12T14:11:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:11:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0125"
+    },
+    {
+      "id": "m-0126",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:11:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:11:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For SHOP, do you prefer breakout over 96.77 or pullback to VWAP?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0126"
+    },
+    {
+      "id": "m-0127",
+      "replyToId": "m-0126",
+      "createdDateTime": "2025-09-12T14:12:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:12:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $96.77; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0127"
+    },
+    {
+      "id": "m-0128",
+      "replyToId": "m-0126",
+      "createdDateTime": "2025-09-12T14:12:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:12:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $96.77; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0128"
+    },
+    {
+      "id": "m-0129",
+      "replyToId": "m-0126",
+      "createdDateTime": "2025-09-12T14:12:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:12:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $96.77; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0129"
+    },
+    {
+      "id": "m-0130",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:13:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:13:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: MSFT IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0130"
+    },
+    {
+      "id": "m-0131",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:13:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:13:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Earnings for TSLA after close; hedging with puts."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0131"
+    },
+    {
+      "id": "m-0132",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:13:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:13:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For CRM, do you prefer breakout over 91.11 or pullback to Fib 61.8%?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0132"
+    },
+    {
+      "id": "m-0133",
+      "replyToId": "m-0132",
+      "createdDateTime": "2025-09-12T14:14:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:14:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$91.11; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0133"
+    },
+    {
+      "id": "m-0134",
+      "replyToId": "m-0132",
+      "createdDateTime": "2025-09-12T14:14:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:14:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0134"
+    },
+    {
+      "id": "m-0135",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:14:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:14:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on NVDA reclaiming EMA20? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0135"
+    },
+    {
+      "id": "m-0136",
+      "replyToId": "m-0135",
+      "createdDateTime": "2025-09-12T14:15:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:15:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$276.6; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0136"
+    },
+    {
+      "id": "m-0137",
+      "replyToId": "m-0135",
+      "createdDateTime": "2025-09-12T14:15:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:15:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$276.6; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0137"
+    },
+    {
+      "id": "m-0138",
+      "replyToId": "m-0135",
+      "createdDateTime": "2025-09-12T14:15:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:15:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $276.6; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0138"
+    },
+    {
+      "id": "m-0139",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:16:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:16:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For COIN, do you prefer breakout over 98.3 or pullback to 200DMA?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0139"
+    },
+    {
+      "id": "m-0140",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:16:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:16:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watching COIN at premarket high $904.05; need volume."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0140"
+    },
+    {
+      "id": "m-0141",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:16:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:16:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on AAPL reclaiming VWAP? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0141"
+    },
+    {
+      "id": "m-0142",
+      "replyToId": "m-0141",
+      "createdDateTime": "2025-09-12T14:17:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:17:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0142"
+    },
+    {
+      "id": "m-0143",
+      "replyToId": "m-0141",
+      "createdDateTime": "2025-09-12T14:17:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:17:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0143"
+    },
+    {
+      "id": "m-0144",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:17:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:17:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 500 @ $251.65 on META — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0144"
+    },
+    {
+      "id": "m-0145",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:18:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:18:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on NVDA $400C exp NextFri."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0145"
+    },
+    {
+      "id": "m-0146",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:18:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:18:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is SHOP a buy if it retests 620.43?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0146"
+    },
+    {
+      "id": "m-0147",
+      "replyToId": "m-0146",
+      "createdDateTime": "2025-09-12T14:18:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:18:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0147"
+    },
+    {
+      "id": "m-0148",
+      "replyToId": "m-0146",
+      "createdDateTime": "2025-09-12T14:19:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:19:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0148"
+    },
+    {
+      "id": "m-0149",
+      "replyToId": "m-0146",
+      "createdDateTime": "2025-09-12T14:19:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:19:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0149"
+    },
+    {
+      "id": "m-0150",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:19:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:19:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: AMZN guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0150"
+    },
+    {
+      "id": "m-0151",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:20:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:20:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watching AMD at premarket high $845.95; need volume."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0151"
+    },
+    {
+      "id": "m-0152",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:20:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:20:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on NVDA?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0152"
+    },
+    {
+      "id": "m-0153",
+      "replyToId": "m-0152",
+      "createdDateTime": "2025-09-12T14:20:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:20:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0153"
+    },
+    {
+      "id": "m-0154",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:21:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:21:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on GOOGL?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0154"
+    },
+    {
+      "id": "m-0155",
+      "replyToId": "m-0154",
+      "createdDateTime": "2025-09-12T14:21:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:21:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0155"
+    },
+    {
+      "id": "m-0156",
+      "replyToId": "m-0154",
+      "createdDateTime": "2025-09-12T14:21:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:21:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above RSI(14) with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0156"
+    },
+    {
+      "id": "m-0157",
+      "replyToId": "m-0154",
+      "createdDateTime": "2025-09-12T14:22:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:22:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0157"
+    },
+    {
+      "id": "m-0158",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:22:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:22:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For AAPL, do you prefer breakout over 944.24 or pullback to Anchored VWAP?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0158"
+    },
+    {
+      "id": "m-0159",
+      "replyToId": "m-0158",
+      "createdDateTime": "2025-09-12T14:22:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:22:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Anchored VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0159"
+    },
+    {
+      "id": "m-0160",
+      "replyToId": "m-0158",
+      "createdDateTime": "2025-09-12T14:23:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:23:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above Anchored VWAP with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0160"
+    },
+    {
+      "id": "m-0161",
+      "replyToId": "m-0158",
+      "createdDateTime": "2025-09-12T14:23:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:23:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0161"
+    },
+    {
+      "id": "m-0162",
+      "replyToId": "m-0158",
+      "createdDateTime": "2025-09-12T14:23:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:23:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0162"
+    },
+    {
+      "id": "m-0163",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:24:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:24:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on NFLX reclaiming Anchored VWAP? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0163"
+    },
+    {
+      "id": "m-0164",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:24:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:24:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled 50 @ $782.94 on SHOP — day trade."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0164"
+    },
+    {
+      "id": "m-0165",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:24:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:24:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Scaled out 1/2 at $400.37 on SHOP."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0165"
+    },
+    {
+      "id": "m-0166",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:25:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:25:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on MSFT?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0166"
+    },
+    {
+      "id": "m-0167",
+      "replyToId": "m-0166",
+      "createdDateTime": "2025-09-12T14:25:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:25:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0167"
+    },
+    {
+      "id": "m-0168",
+      "replyToId": "m-0166",
+      "createdDateTime": "2025-09-12T14:25:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:25:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0168"
+    },
+    {
+      "id": "m-0169",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:26:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:26:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is COIN a buy if it retests 241.4?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0169"
+    },
+    {
+      "id": "m-0170",
+      "replyToId": "m-0169",
+      "createdDateTime": "2025-09-12T14:26:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:26:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0170"
+    },
+    {
+      "id": "m-0171",
+      "replyToId": "m-0169",
+      "createdDateTime": "2025-09-12T14:26:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:26:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$241.4; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0171"
+    },
+    {
+      "id": "m-0172",
+      "replyToId": "m-0169",
+      "createdDateTime": "2025-09-12T14:27:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:27:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $241.4; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0172"
+    },
+    {
+      "id": "m-0173",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:27:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:27:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is AMZN a buy if it retests 337.82?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0173"
+    },
+    {
+      "id": "m-0174",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:27:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:27:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $825.26 on SPY."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0174"
+    },
+    {
+      "id": "m-0175",
+      "replyToId": "m-0174",
+      "createdDateTime": "2025-09-12T14:28:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:28:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0175"
+    },
+    {
+      "id": "m-0176",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:28:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:28:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: SHOP IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0176"
+    },
+    {
+      "id": "m-0177",
+      "replyToId": "m-0176",
+      "createdDateTime": "2025-09-12T14:28:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:28:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to Anchored VWAP; risk $12.7 for $38.09 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0177"
+    },
+    {
+      "id": "m-0178",
+      "replyToId": "m-0176",
+      "createdDateTime": "2025-09-12T14:29:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:29:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $634.75; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0178"
+    },
+    {
+      "id": "m-0179",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:29:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:29:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For AAPL, do you prefer breakout over 1137.78 or pullback to EMA20?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0179"
+    },
+    {
+      "id": "m-0180",
+      "replyToId": "m-0179",
+      "createdDateTime": "2025-09-12T14:29:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:29:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0180"
+    },
+    {
+      "id": "m-0181",
+      "replyToId": "m-0179",
+      "createdDateTime": "2025-09-12T14:30:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:30:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0181"
+    },
+    {
+      "id": "m-0182",
+      "replyToId": "m-0179",
+      "createdDateTime": "2025-09-12T14:30:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:30:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $1137.78; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0182"
+    },
+    {
+      "id": "m-0183",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:30:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:30:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on CRM?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0183"
+    },
+    {
+      "id": "m-0184",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:31:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:31:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "PT $87.0 on NFLX if breaks 134.18."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0184"
+    },
+    {
+      "id": "m-0185",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:31:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:31:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: GOOGL guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0185"
+    },
+    {
+      "id": "m-0186",
+      "replyToId": "m-0185",
+      "createdDateTime": "2025-09-12T14:31:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:31:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0186"
+    },
+    {
+      "id": "m-0187",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:32:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:32:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on SHOP?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0187"
+    },
+    {
+      "id": "m-0188",
+      "replyToId": "m-0187",
+      "createdDateTime": "2025-09-12T14:32:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:32:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to 200DMA; risk $1.77 for $5.31 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0188"
+    },
+    {
+      "id": "m-0189",
+      "replyToId": "m-0187",
+      "createdDateTime": "2025-09-12T14:32:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:32:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $88.44; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0189"
+    },
+    {
+      "id": "m-0190",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:33:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:33:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on GOOGL $450C exp NextFri."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0190"
+    },
+    {
+      "id": "m-0191",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:33:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:33:20Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on NVDA $200C exp NextFri."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0191"
+    },
+    {
+      "id": "m-0192",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:33:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:33:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on COIN?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0192"
+    },
+    {
+      "id": "m-0193",
+      "replyToId": "m-0192",
+      "createdDateTime": "2025-09-12T14:34:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:34:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $39.31; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0193"
+    },
+    {
+      "id": "m-0194",
+      "replyToId": "m-0192",
+      "createdDateTime": "2025-09-12T14:34:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:34:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$39.31; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0194"
+    },
+    {
+      "id": "m-0195",
+      "replyToId": "m-0192",
+      "createdDateTime": "2025-09-12T14:34:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:34:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0195"
+    },
+    {
+      "id": "m-0196",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:35:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:35:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is NVDA a buy if it retests 918.15?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0196"
+    },
+    {
+      "id": "m-0197",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:35:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:35:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: SHOP guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0197"
+    },
+    {
+      "id": "m-0198",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:35:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:35:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Earnings for CRM after close; hedging with puts."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0198"
+    },
+    {
+      "id": "m-0199",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:36:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:36:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Is MSFT a buy if it retests 394.64?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0199"
+    },
+    {
+      "id": "m-0200",
+      "replyToId": "m-0199",
+      "createdDateTime": "2025-09-12T14:36:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:36:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $394.64; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0200"
+    },
+    {
+      "id": "m-0201",
+      "replyToId": "m-0199",
+      "createdDateTime": "2025-09-12T14:36:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:36:40Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $394.64; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0201"
+    },
+    {
+      "id": "m-0202",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:37:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:37:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "News hit: SPY guidance raised."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0202"
+    },
+    {
+      "id": "m-0203",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:37:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:37:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: NVDA IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0203"
+    },
+    {
+      "id": "m-0204",
+      "replyToId": "m-0203",
+      "createdDateTime": "2025-09-12T14:37:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:37:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0204"
+    },
+    {
+      "id": "m-0205",
+      "replyToId": "m-0203",
+      "createdDateTime": "2025-09-12T14:38:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:38:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0205"
+    },
+    {
+      "id": "m-0206",
+      "replyToId": "m-0203",
+      "createdDateTime": "2025-09-12T14:38:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:38:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0206"
+    },
+    {
+      "id": "m-0207",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:38:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:38:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Halt risk on SHOP; staying flat."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0207"
+    },
+    {
+      "id": "m-0208",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:39:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:39:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Scaled out 1/2 at $580.82 on SMCI."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0208"
+    },
+    {
+      "id": "m-0209",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:39:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:39:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on MSFT?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0209"
+    },
+    {
+      "id": "m-0210",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:39:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:39:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Halt risk on SMCI; staying flat."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0210"
+    },
+    {
+      "id": "m-0211",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:40:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:40:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on SHOP reclaiming EMA20? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0211"
+    },
+    {
+      "id": "m-0212",
+      "replyToId": "m-0211",
+      "createdDateTime": "2025-09-12T14:40:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:40:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0212"
+    },
+    {
+      "id": "m-0213",
+      "replyToId": "m-0211",
+      "createdDateTime": "2025-09-12T14:40:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:40:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0213"
+    },
+    {
+      "id": "m-0214",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:41:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:41:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Thoughts on AAPL reclaiming RSI(14)? Worth a scalp?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0214"
+    },
+    {
+      "id": "m-0215",
+      "replyToId": "m-0214",
+      "createdDateTime": "2025-09-12T14:41:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:41:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$1193.7; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0215"
+    },
+    {
+      "id": "m-0216",
+      "replyToId": "m-0214",
+      "createdDateTime": "2025-09-12T14:41:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:41:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$1193.7; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0216"
+    },
+    {
+      "id": "m-0217",
+      "replyToId": "m-0214",
+      "createdDateTime": "2025-09-12T14:42:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:42:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to RSI(14); risk $23.87 for $71.62 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0217"
+    },
+    {
+      "id": "m-0218",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:42:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:42:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $87.23 on QQQ."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0218"
+    },
+    {
+      "id": "m-0219",
+      "replyToId": "m-0218",
+      "createdDateTime": "2025-09-12T14:42:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:42:40Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Filled. Thanks for the level."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0219"
+    },
+    {
+      "id": "m-0220",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:43:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:43:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: SMCI IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0220"
+    },
+    {
+      "id": "m-0221",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:43:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:43:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on SMCI?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0221"
+    },
+    {
+      "id": "m-0222",
+      "replyToId": "m-0221",
+      "createdDateTime": "2025-09-12T14:43:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:43:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Watch tape — seller at $419.54; needs sweep to clear."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0222"
+    },
+    {
+      "id": "m-0223",
+      "replyToId": "m-0221",
+      "createdDateTime": "2025-09-12T14:44:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:44:00Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$419.54; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0223"
+    },
+    {
+      "id": "m-0224",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:44:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:44:20Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: Anyone seeing dark pool prints on META?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0224"
+    },
+    {
+      "id": "m-0225",
+      "replyToId": "m-0224",
+      "createdDateTime": "2025-09-12T14:44:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:44:40Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Theta decay nasty; I'd calendar instead of weeklies."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0225"
+    },
+    {
+      "id": "m-0226",
+      "replyToId": "m-0224",
+      "createdDateTime": "2025-09-12T14:45:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:45:00Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Yes, volume building; above 200DMA with RSI > 55 looks good."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0226"
+    },
+    {
+      "id": "m-0227",
+      "replyToId": "m-0224",
+      "createdDateTime": "2025-09-12T14:45:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:45:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0227"
+    },
+    {
+      "id": "m-0228",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:45:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:45:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Added weekly calls on SPY $120C exp Fri."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0228"
+    },
+    {
+      "id": "m-0229",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:46:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:46:00Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: MSFT IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0229"
+    },
+    {
+      "id": "m-0230",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:46:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:46:20Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $715.06 on GOOGL."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0230"
+    },
+    {
+      "id": "m-0231",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:46:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:46:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Adjusted stop to $198.95 on AMD."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0231"
+    },
+    {
+      "id": "m-0232",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:47:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:47:00Z",
+      "from": {
+        "user": {
+          "id": "tr3",
+          "displayName": "Alex (Quant)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: SPY IV crush post-ER — sell premium or wait?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0232"
+    },
+    {
+      "id": "m-0233",
+      "replyToId": "m-0232",
+      "createdDateTime": "2025-09-12T14:47:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:47:20Z",
+      "from": {
+        "user": {
+          "id": "tr2",
+          "displayName": "Sam (Swing)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "I prefer pullback to EMA50; risk $2.46 for $7.38 reward."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0233"
+    },
+    {
+      "id": "m-0234",
+      "replyToId": "m-0232",
+      "createdDateTime": "2025-09-12T14:47:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:47:40Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0234"
+    },
+    {
+      "id": "m-0235",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:48:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:48:00Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Q: For AAPL, do you prefer breakout over 1129.17 or pullback to EMA50?"
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0235"
+    },
+    {
+      "id": "m-0236",
+      "replyToId": "m-0235",
+      "createdDateTime": "2025-09-12T14:48:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:48:20Z",
+      "from": {
+        "user": {
+          "id": "tr4",
+          "displayName": "Jordan (Options)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Careful — news risk; keep position small."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0236"
+    },
+    {
+      "id": "m-0237",
+      "replyToId": "m-0235",
+      "createdDateTime": "2025-09-12T14:48:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:48:40Z",
+      "from": {
+        "user": {
+          "id": "tr5",
+          "displayName": "Taylor (Macro)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$1129.17; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0237"
+    },
+    {
+      "id": "m-0238",
+      "replyToId": "m-0235",
+      "createdDateTime": "2025-09-12T14:49:00Z",
+      "lastModifiedDateTime": "2025-09-12T14:49:00Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "DP prints ~$1129.17; expecting magnet."
+      },
+      "importance": "normal",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0238"
+    },
+    {
+      "id": "m-0239",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:49:20Z",
+      "lastModifiedDateTime": "2025-09-12T14:49:20Z",
+      "from": {
+        "user": {
+          "id": "tr6",
+          "displayName": "Morgan (TA)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Earnings for QQQ after close; hedging with puts."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0239"
+    },
+    {
+      "id": "m-0240",
+      "replyToId": null,
+      "createdDateTime": "2025-09-12T14:49:40Z",
+      "lastModifiedDateTime": "2025-09-12T14:49:40Z",
+      "from": {
+        "user": {
+          "id": "tr1",
+          "displayName": "Riley (Scalper)",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "Scaled out 1/2 at $690.04 on CRM."
+      },
+      "importance": "low",
+      "webUrl": "https://teams.microsoft.com/l/message/19:trading-room@unq/m-0240"
+    }
+  ]
+}
